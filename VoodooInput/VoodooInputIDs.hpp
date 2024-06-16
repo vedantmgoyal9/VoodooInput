@@ -11,7 +11,7 @@
 // macOS 10.10-14
 constexpr int kVoodooInputProductMacbook8_1 = 0x272;
 // macOS 15+
-constexpr int kVoodooInputProductMacbookAir10_1 = 0x281;
+constexpr int kVoodooInputProductMacbookAir10_1 = 0x265;
 constexpr int kVoodooInputVendorApple = 0x5ac;
 
 constexpr int kVoodooInputVersionSequoia = 24;
